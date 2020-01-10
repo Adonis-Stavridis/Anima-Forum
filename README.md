@@ -12,26 +12,29 @@ The purpose of the project was to learn how to handle front and back ends of web
 
 Here is a quick overview of the main pages of the website.
 
-> Log in Page<br>
-![Bring me pictures of the Log In page!](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/login.png "Log in Page")
+> **Log in Page**: this is the first page to appear where you can log into your account, redirect to the Sign up Page, or access the website as a Visitor.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/login.png "Log in Page")
 
->Sign up Page<br>
-![Bring me pictures of the Sign up page!](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/signup.png "Sign up Page")
+>**Sign up Page**: here you can create an account and look up the terms and conditions page.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/signup.png "Sign up Page")
 
->Home Page<br>
-![Bring me pictures of the Home page!](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/home.png "Home Page")
+>**Home Page**: this the main page of the forum, you can access your profile page as well as the different categories and topics.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/home.png "Home Page")
 
->Profile Page<br>
-![Bring me pictures of the Profile page!](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/profile.png "Profile Page")
+>**Profile Page**: this page lists all information about your account, you can also modify that information. Admins can also see information and change permissions of all accounts on the website.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/profile.png "Profile Page")
 
->Topic Page<br>
-![Bring me pictures of the Topic page!](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/topic.png "Topic Page")
+>**Topic Page**: after accessing a category and then a topic, you will access this page where you will be able to rate the topic, write comments, upvote or downvote comments and delete your own comments.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/topic.png "Topic Page")
 
->Topic settings page<br>
-![Bring me pictures of the Topic Settings page!](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/settings.png "Topic settings Page")
+>**Topic settings page**: this page is accessed by clicking on "Modify Topics" and is used to add, modify or delete topics. A same pages exists for the categories as well.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/settings.png "Topic settings Page")
 
->Information Page<br>
-![Bring me pictures of the information page!](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/info.png "Information Page")
+>**Information Page**: this a page with information regarding the website.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/info.png "Information Page")
 
->Contact Page<br>
-![Bring me pictures of the Contact page!](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/login.png "Contact Page")
+>**Contact Page**: this is a contact form, that would send me (the creator of the forum) an email.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/contact.png "Contact Page")
+
+>**Terms and Conditions Page**: this is a simple page listing some information on how a user should be behave when using this forum.<br><br>
+![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/terms.png "Terms and Conditions Page")
