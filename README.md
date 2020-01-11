@@ -38,3 +38,26 @@ Here is a quick overview of the main pages of the website.
 
 >**Terms and Conditions Page**: this is a simple page listing some information on how a user should be behave when using this forum.<br><br>
 ![Where did the image go?](https://raw.githubusercontent.com/Adonis-Stavridis/Anima-Forum/master/imgs/terms.png "Terms and Conditions Page")
+
+### Setting up
+
+This forum was not deployed as a website.
+If you wish to set up this project on your machine, you have to follow these instructions:
+
+1. First you need to create a new database on mysql. Then go to the directory **/BDD/INITS** and make sure you have **init_all.sql**. You can now open a terminal and log into mysql, choose your database and finally type the following commanding in order to fill your database with all necessary tables and procedures:
+
+
+    source <path to project directory>/BDD/INITS/init_all.sql;
+
+2. Go to the directory **/WEB/model** and create a PHP file called **global.php** and fill it with the correct information where it is written "enter your ... here":
+
+
+    <?php
+    define('SQL_DSN', 'mysql:host=localhost;dbname=enter your database name here');
+    define('SQL_USERNAME',  'enter your mysql username here');
+    define('SQL_PASSWORD',  'enter your mysql password here');
+    ?>
+
+3. You can then copy the project to a server or set it up on your local machine. You are free to do however you wish in order to set it up on a server and make it work on your web browser.
+
+4. You will now be able to access the website by going to a custom URL you have set up for the project or typing **WEB/view/index.php** in your web browser.
